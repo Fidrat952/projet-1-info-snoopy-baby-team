@@ -4,4 +4,7 @@ project(projet_1_info_snoopy_baby_team C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(projet_1_info_snoopy_baby_team
-        main.c)
+        main.c
+        menu.c
+        "mouvements snoopy.c"
+        Décor.c)
