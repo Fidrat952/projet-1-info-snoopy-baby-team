@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "projet_1_info_snoopy_baby_team",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "projet_1_info_snoopy_baby_team::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projet_1_info_snoopy_baby_team-Debug-f2daa891c4f54a4f76c3.json",
+					"name" : "projet_1_info_snoopy_baby_team",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aurel/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug",
+		"source" : "C:/Users/aurel/Documents/GitHub/projet-1-info-snoopy-baby-team"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
