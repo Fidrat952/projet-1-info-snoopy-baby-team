@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include "biblio.h"
+#include <unistd.h>
 
 void niveau(char decortest[10][20]){
+    system("cls");
     for (int i=0;i<10;i++){
         printf("\n");
         for(int j=0;j<20;j++){

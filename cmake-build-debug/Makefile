@@ -128,30 +128,6 @@ projet_1_info_snoopy_baby_team/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/build
 .PHONY : projet_1_info_snoopy_baby_team/fast
 
-biblio.obj: biblio.c.obj
-.PHONY : biblio.obj
-
-# target to build an object file
-biblio.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj
-.PHONY : biblio.c.obj
-
-biblio.i: biblio.c.i
-.PHONY : biblio.i
-
-# target to preprocess a source file
-biblio.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.i
-.PHONY : biblio.c.i
-
-biblio.s: biblio.c.s
-.PHONY : biblio.s
-
-# target to generate assembly for a file
-biblio.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.s
-.PHONY : biblio.c.s
-
 decor.obj: decor.c.obj
 .PHONY : decor.obj
 
@@ -248,30 +224,6 @@ menu.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.s
 .PHONY : menu.c.s
 
-mouvements_snoopy.obj: mouvements_snoopy.c.obj
-.PHONY : mouvements_snoopy.obj
-
-# target to build an object file
-mouvements_snoopy.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj
-.PHONY : mouvements_snoopy.c.obj
-
-mouvements_snoopy.i: mouvements_snoopy.c.i
-.PHONY : mouvements_snoopy.i
-
-# target to preprocess a source file
-mouvements_snoopy.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.i
-.PHONY : mouvements_snoopy.c.i
-
-mouvements_snoopy.s: mouvements_snoopy.c.s
-.PHONY : mouvements_snoopy.s
-
-# target to generate assembly for a file
-mouvements_snoopy.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.s
-.PHONY : mouvements_snoopy.c.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -281,9 +233,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... projet_1_info_snoopy_baby_team
-	@echo ... biblio.obj
-	@echo ... biblio.i
-	@echo ... biblio.s
 	@echo ... decor.obj
 	@echo ... decor.i
 	@echo ... decor.s
@@ -296,9 +245,6 @@ help:
 	@echo ... menu.obj
 	@echo ... menu.i
 	@echo ... menu.s
-	@echo ... mouvements_snoopy.obj
-	@echo ... mouvements_snoopy.i
-	@echo ... mouvements_snoopy.s
 .PHONY : help
 
 

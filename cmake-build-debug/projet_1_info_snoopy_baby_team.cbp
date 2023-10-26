@@ -76,12 +76,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/biblio.c">
-			<Option target="projet_1_info_snoopy_baby_team"/>
-		</Unit>
-		<Unit filename="C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/biblio.h">
-			<Option target="projet_1_info_snoopy_baby_team"/>
-		</Unit>
 		<Unit filename="C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/decor.c">
 			<Option target="projet_1_info_snoopy_baby_team"/>
 		</Unit>
@@ -92,9 +86,6 @@
 			<Option target="projet_1_info_snoopy_baby_team"/>
 		</Unit>
 		<Unit filename="C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/menu.c">
-			<Option target="projet_1_info_snoopy_baby_team"/>
-		</Unit>
-		<Unit filename="C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/mouvements snoopy.c">
 			<Option target="projet_1_info_snoopy_baby_team"/>
 		</Unit>
 		<Unit filename="C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/CMakeLists.txt">

@@ -96,24 +96,10 @@ CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\menu.c -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\menu.c.s
 
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/flags.make
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj: C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/mouvements\ snoopy.c
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj -MF CMakeFiles\projet_1_info_snoopy_baby_team.dir\mouvements_snoopy.c.obj.d -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\mouvements_snoopy.c.obj -c "C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\mouvements snoopy.c"
-
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\mouvements snoopy.c" > CMakeFiles\projet_1_info_snoopy_baby_team.dir\mouvements_snoopy.c.i
-
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\mouvements snoopy.c" -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\mouvements_snoopy.c.s
-
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/flags.make
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj: C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/decor.c
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj -MF CMakeFiles\projet_1_info_snoopy_baby_team.dir\decor.c.obj.d -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\decor.c.obj -c C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\decor.c
 
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.i: cmake_force
@@ -124,24 +110,10 @@ CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\decor.c -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\decor.c.s
 
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/flags.make
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj: C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/biblio.c
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj -MF CMakeFiles\projet_1_info_snoopy_baby_team.dir\biblio.c.obj.d -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\biblio.c.obj -c C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\biblio.c
-
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\biblio.c > CMakeFiles\projet_1_info_snoopy_baby_team.dir\biblio.c.i
-
-CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\biblio.c -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\biblio.c.s
-
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/flags.make
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj: C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/jeu.c
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj: CMakeFiles/projet_1_info_snoopy_baby_team.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj -MF CMakeFiles\projet_1_info_snoopy_baby_team.dir\jeu.c.obj.d -o CMakeFiles\projet_1_info_snoopy_baby_team.dir\jeu.c.obj -c C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\jeu.c
 
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.i: cmake_force
@@ -156,9 +128,7 @@ CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.s: cmake_force
 projet_1_info_snoopy_baby_team_OBJECTS = \
 "CMakeFiles/projet_1_info_snoopy_baby_team.dir/main.c.obj" \
 "CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.obj" \
-"CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj" \
 "CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj" \
-"CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj" \
 "CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj"
 
 # External object files for target projet_1_info_snoopy_baby_team
@@ -166,15 +136,13 @@ projet_1_info_snoopy_baby_team_EXTERNAL_OBJECTS =
 
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/main.c.obj
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.obj
-projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj
-projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/build.make
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/linkLibs.rsp
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/objects1.rsp
 projet_1_info_snoopy_baby_team.exe: CMakeFiles/projet_1_info_snoopy_baby_team.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable projet_1_info_snoopy_baby_team.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable projet_1_info_snoopy_baby_team.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\projet_1_info_snoopy_baby_team.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

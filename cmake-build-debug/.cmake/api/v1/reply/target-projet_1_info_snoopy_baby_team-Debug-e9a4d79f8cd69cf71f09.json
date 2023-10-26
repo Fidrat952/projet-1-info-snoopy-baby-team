@@ -55,9 +55,7 @@
 				0,
 				1,
 				2,
-				3,
-				4,
-				5
+				3
 			]
 		}
 	],
@@ -97,9 +95,7 @@
 				0,
 				1,
 				2,
-				3,
-				4,
-				5
+				3
 			]
 		}
 	],
@@ -120,19 +116,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "mouvements snoopy.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
 			"path" : "decor.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "biblio.c",
 			"sourceGroupIndex" : 0
 		},
 		{
