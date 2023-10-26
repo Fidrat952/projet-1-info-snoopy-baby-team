@@ -7,4 +7,5 @@ add_executable(projet_1_info_snoopy_baby_team
         main.c
         menu.c
         "mouvements snoopy.c"
-        Décor.c)
+        Décor.c
+        biblio.c)
