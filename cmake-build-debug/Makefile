@@ -152,6 +152,30 @@ Décor.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.s
 .PHONY : Décor.c.s
 
+biblio.obj: biblio.c.obj
+.PHONY : biblio.obj
+
+# target to build an object file
+biblio.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj
+.PHONY : biblio.c.obj
+
+biblio.i: biblio.c.i
+.PHONY : biblio.i
+
+# target to preprocess a source file
+biblio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.i
+.PHONY : biblio.c.i
+
+biblio.s: biblio.c.s
+.PHONY : biblio.s
+
+# target to generate assembly for a file
+biblio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.s
+.PHONY : biblio.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -236,6 +260,9 @@ help:
 	@echo ... Décor.obj
 	@echo ... Décor.i
 	@echo ... Décor.s
+	@echo ... biblio.obj
+	@echo ... biblio.i
+	@echo ... biblio.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/Décor.c" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.obj" "gcc" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.obj.d"
+  "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/biblio.c" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj" "gcc" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj.d"
   "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/main.c" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/main.c.obj" "gcc" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/main.c.obj.d"
   "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/menu.c" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.obj" "gcc" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.obj.d"
   "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/mouvements snoopy.c" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj" "gcc" "CMakeFiles/projet_1_info_snoopy_baby_team.dir/mouvements_snoopy.c.obj.d"

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.obj"
   "CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.obj.d"
+  "CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj"
+  "CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.obj.d"
   "CMakeFiles/projet_1_info_snoopy_baby_team.dir/main.c.obj"
   "CMakeFiles/projet_1_info_snoopy_baby_team.dir/main.c.obj.d"
   "CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.obj"
