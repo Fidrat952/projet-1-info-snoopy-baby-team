@@ -1,5 +1,5 @@
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.obj: \
- C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team\menu.c \
+ C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\menu.c \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -30,4 +30,4 @@ CMakeFiles/projet_1_info_snoopy_baby_team.dir/menu.c.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/getopt.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
- C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team\biblio.h
+ C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\biblio.h

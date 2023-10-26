@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug"
+			"value" : "c:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -547,7 +547,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team"
+			"value" : "C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1179,7 +1179,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug"
+			"value" : "C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug"
 		},
 		{
 			"name" : "projet_1_info_snoopy_baby_team_IS_TOP_LEVEL",
@@ -1203,7 +1203,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team"
+			"value" : "C:/Users/aurel/OneDrive/Documents/GitHub/projet-1-info-snoopy-baby-team"
 		}
 	],
 	"kind" : "cache",

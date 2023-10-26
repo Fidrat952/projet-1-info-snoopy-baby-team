@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team
+CMAKE_SOURCE_DIR = C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -175,6 +175,30 @@ decor.s: decor.c.s
 decor.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.s
 .PHONY : decor.c.s
+
+jeu.obj: jeu.c.obj
+.PHONY : jeu.obj
+
+# target to build an object file
+jeu.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.obj
+.PHONY : jeu.c.obj
+
+jeu.i: jeu.c.i
+.PHONY : jeu.i
+
+# target to preprocess a source file
+jeu.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.i
+.PHONY : jeu.c.i
+
+jeu.s: jeu.c.s
+.PHONY : jeu.s
+
+# target to generate assembly for a file
+jeu.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/jeu.c.s
+.PHONY : jeu.c.s
 
 main.obj: main.c.obj
 .PHONY : main.obj
@@ -263,6 +287,9 @@ help:
 	@echo ... decor.obj
 	@echo ... decor.i
 	@echo ... decor.s
+	@echo ... jeu.obj
+	@echo ... jeu.i
+	@echo ... jeu.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

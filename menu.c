@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include "biblio.h"
+
 void rdj() {
     system("cls");
     printf("Voici les regles du jeu:\n"
@@ -12,7 +13,7 @@ void rdj() {
            "- Vous avez 3 vies par niveau\n");
     printf("appuyer sur une touche pour retourner au menu principal\n");
     getchar();
-    getchar();
+    getchar();// 2 getchar de suite car lorsque il n'y en a qu'un, cela provoque un probleme
 }
 
 void menu() {
@@ -33,7 +34,7 @@ void menu() {
                 printf("NIVEAU 1");
                 sleep(5);
                 system("cls");
-                decor();
+                jeu();
                 break;
             case 3:
                 // CHARGER UNE PARTIE

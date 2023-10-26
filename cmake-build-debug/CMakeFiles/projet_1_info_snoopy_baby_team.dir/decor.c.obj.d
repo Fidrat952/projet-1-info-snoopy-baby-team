@@ -1,5 +1,5 @@
 CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj: \
- C:\Users\victo\Documents\GitHub\projet-1-info-snoopy-baby-team\decor.c \
+ C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\decor.c \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -10,4 +10,5 @@ CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
- C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:\Users\aurel\OneDrive\Documents\GitHub\projet-1-info-snoopy-baby-team\biblio.h
