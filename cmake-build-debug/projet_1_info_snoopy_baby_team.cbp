@@ -76,13 +76,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/Décor.c">
-			<Option target="projet_1_info_snoopy_baby_team"/>
-		</Unit>
 		<Unit filename="C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/biblio.c">
 			<Option target="projet_1_info_snoopy_baby_team"/>
 		</Unit>
 		<Unit filename="C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/biblio.h">
+			<Option target="projet_1_info_snoopy_baby_team"/>
+		</Unit>
+		<Unit filename="C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/decor.c">
 			<Option target="projet_1_info_snoopy_baby_team"/>
 		</Unit>
 		<Unit filename="C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/main.c">

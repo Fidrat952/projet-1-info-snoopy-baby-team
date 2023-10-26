@@ -128,30 +128,6 @@ projet_1_info_snoopy_baby_team/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/build
 .PHONY : projet_1_info_snoopy_baby_team/fast
 
-Décor.obj: Décor.c.obj
-.PHONY : Décor.obj
-
-# target to build an object file
-Décor.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.obj
-.PHONY : Décor.c.obj
-
-Décor.i: Décor.c.i
-.PHONY : Décor.i
-
-# target to preprocess a source file
-Décor.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.i
-.PHONY : Décor.c.i
-
-Décor.s: Décor.c.s
-.PHONY : Décor.s
-
-# target to generate assembly for a file
-Décor.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/Décor.c.s
-.PHONY : Décor.c.s
-
 biblio.obj: biblio.c.obj
 .PHONY : biblio.obj
 
@@ -175,6 +151,30 @@ biblio.s: biblio.c.s
 biblio.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/biblio.c.s
 .PHONY : biblio.c.s
+
+decor.obj: decor.c.obj
+.PHONY : decor.obj
+
+# target to build an object file
+decor.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.obj
+.PHONY : decor.c.obj
+
+decor.i: decor.c.i
+.PHONY : decor.i
+
+# target to preprocess a source file
+decor.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.i
+.PHONY : decor.c.i
+
+decor.s: decor.c.s
+.PHONY : decor.s
+
+# target to generate assembly for a file
+decor.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\projet_1_info_snoopy_baby_team.dir\build.make CMakeFiles/projet_1_info_snoopy_baby_team.dir/decor.c.s
+.PHONY : decor.c.s
 
 main.obj: main.c.obj
 .PHONY : main.obj
@@ -257,12 +257,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... projet_1_info_snoopy_baby_team
-	@echo ... Décor.obj
-	@echo ... Décor.i
-	@echo ... Décor.s
 	@echo ... biblio.obj
 	@echo ... biblio.i
 	@echo ... biblio.s
+	@echo ... decor.obj
+	@echo ... decor.i
+	@echo ... decor.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
