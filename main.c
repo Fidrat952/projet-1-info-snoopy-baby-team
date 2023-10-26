@@ -1,5 +1,5 @@
 #include "biblio.h"
 
 int main (){
-    menu();
+    decor();
 }

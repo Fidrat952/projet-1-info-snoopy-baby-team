@@ -5,6 +5,6 @@
 #ifndef PROJET_1_INFO_SNOOPY_BABY_TEAM_BIBLIO_H
 #define PROJET_1_INFO_SNOOPY_BABY_TEAM_BIBLIO_H
 
-void menu();
+void menu();void decor();
 
 #endif //PROJET_1_INFO_SNOOPY_BABY_TEAM_BIBLIO_H
