@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
+#include "biblio.h"
 
 void menu() {
     int choix;
@@ -12,8 +14,12 @@ void menu() {
         case 1:
             printf("A FAIRE"); // ECRIRE LES REGLES DU JEU
             break;
-        case 2:
-            // LANCEMENT DE LA PARTIE
+        case 2: // Lancer le jeu depuis le début
+            system("cls");
+            printf("NIVEAU 1");
+            sleep(5);
+            system("cls");
+            decor();
             break;
         case 3:
             // CHARGER UNE PARTIE
