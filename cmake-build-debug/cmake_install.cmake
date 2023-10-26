@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/aurel/Documents/GitHub/projet-1-info-snoopy-baby-team
+# Install script for directory: C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/aurel/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/victo/Documents/GitHub/projet-1-info-snoopy-baby-team/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
